@@ -1,0 +1,8 @@
+C:\Users\add\source\repos\HW\Game_3.0\Game_3.0\bin\Debug\Game_3.0.exe.config
+C:\Users\add\source\repos\HW\Game_3.0\Game_3.0\bin\Debug\Game_3.0.exe
+C:\Users\add\source\repos\HW\Game_3.0\Game_3.0\bin\Debug\Game_3.0.pdb
+C:\Users\add\source\repos\HW\Game_3.0\Game_3.0\obj\Debug\Game_3.0.csproj.AssemblyReference.cache
+C:\Users\add\source\repos\HW\Game_3.0\Game_3.0\obj\Debug\Game_3.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\add\source\repos\HW\Game_3.0\Game_3.0\obj\Debug\Game_3.0.csproj.CoreCompileInputs.cache
+C:\Users\add\source\repos\HW\Game_3.0\Game_3.0\obj\Debug\Game_3.0.exe
+C:\Users\add\source\repos\HW\Game_3.0\Game_3.0\obj\Debug\Game_3.0.pdb
